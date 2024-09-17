@@ -1,8 +1,8 @@
-# Proyecto Juego -
+# Proyecto - Mini ejemplo de uso de ChatGPT (GitHub)
 
 ## Descripción del proyecto
 
-El presente proyecto implementa el Juego 
+El presente proyecto muestra la programación fundamental para interactura con modelos LLM de GitHub
 
 # Trabajo en Equipo
 
